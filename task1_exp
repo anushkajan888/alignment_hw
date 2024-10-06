@@ -1,0 +1,5 @@
+Explanation:
+
+Data Alignment: Different types are aligned to memory boundaries. For instance, an int may be aligned to 4-byte boundaries, and a double to 8-byte boundaries. This helps the CPU access memory more efficiently.
+Variable Addresses: You’ll notice that addresses printed are not consecutive. They follow alignment rules based on the type, which ensures faster memory access.
+

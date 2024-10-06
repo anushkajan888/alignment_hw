@@ -1,0 +1,5 @@
+Explanation:
+
+Struct Padding: Padding is added between fields to ensure proper alignment of each field. For example, int and double may need to start at addresses that are multiples of 4 or 8 bytes, respectively.
+Reordering Fields: By placing larger fields first, padding is minimized. When smaller types like char are followed by larger types, padding is often introduced to maintain alignment.
+

@@ -1,0 +1,4 @@
+Explanation:
+
+#pragma pack: This directive changes the alignment requirement, forcing the compiler to pack fields together more tightly, which reduces the memory size of the struct.
+Packing Efficiency: Although packing saves memory, it can lead to inefficient memory access, as the CPU prefers data to be aligned on natural boundaries (e.g., 4 or 8-byte boundaries).:wq

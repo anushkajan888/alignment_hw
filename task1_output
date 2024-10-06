@@ -1,0 +1,8 @@
+Size of int: 4 bytes
+Size of char: 1 byte
+Size of double: 8 bytes
+Size of short: 2 bytes
+Address of intVar: 0x7ffee348559c
+Address of charVar: 0x7ffee3485599
+Address of doubleVar: 0x7ffee34855a0
+Address of shortVar: 0x7ffee348559a
